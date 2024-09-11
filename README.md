@@ -6,7 +6,7 @@ PYTHON INTERNSHIP
 Task no 1:
  
  
-Introduction:
+#Introduction:
 
 What is the Red   Blue Game?
 
